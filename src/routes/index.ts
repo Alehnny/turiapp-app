@@ -1,0 +1,7 @@
+export enum RoutesScreen {
+  HOME = 'HOME',
+  EXPLORE = 'EXPLORE',
+  FAVORITES = 'FAVORITES',
+  PROFILE = 'PROFILE',
+  PLACE_DETAILS = 'PLACE_DETAILS',
+}
